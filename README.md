@@ -28,7 +28,7 @@ This is a custom ESP32 development board featuring an integrated OLED display fo
 
 ## PCB LAYOUT
 
- <img width="339" height="265" alt="Screenshot 2026-07-24 161630" src="https://github.com/user-attachments/assets/ec3f9b37-d291-4152-ab79-e80f31e6d2de" />
+<img width="346" height="258" alt="image" src="https://github.com/user-attachments/assets/7e9cd68b-4c91-45b9-a39b-6d439db6fbb1" />
 
 ## TOP LAYER (SIGNAL)
 
