@@ -10,7 +10,7 @@ This is a custom ESP32 development board featuring an integrated OLED display fo
  - LDO - AP2112K-3.3TRG1_C23380830
  - Battery connector - S2B-PH-SM4-TB(LF)(SN)
 
-  <img width="561" height="355" alt="image" src="https://github.com/user-attachments/assets/ef78d967-f5d1-4c93-a489-7ac4c6bcd458" />
+ <img width="458" height="327" alt="Screenshot 2026-08-06 184804" src="https://github.com/user-attachments/assets/58eed62f-9d7e-4776-82c6-ec8cae3c0e55" />
   
   YOU CAN ALSO DOWNLOAD THE GERBER, CPL AND BOM FILE IN .zip FOR DIRECT PCB MANUFACTURING!
 
