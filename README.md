@@ -1,6 +1,10 @@
 # ESP-QUICK
 This is a custom ESP32 development board featuring an integrated OLED display for real-time status monitoring, alongside an auto-switching LiPo battery charging circuit with its own USB port. For fast prototyping.
 
+This is the OSHWLab view only link for this project
+
+https://oshwlab.com/yash2942012/project_zcipnwhr
+
 ## Technical Specs
  - Main module - ESP32-WROOM-32E (8MB)
  - USB TO UART chip - CP2102N-A02-GQFN24R
