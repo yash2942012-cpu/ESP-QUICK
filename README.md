@@ -1,5 +1,5 @@
 # ESP-QUICK
-This is a custom ESP32 development board featuring an integrated OLED display for real-time status monitoring, alongside an auto-switching LiPo battery charging circuit with its own USB port. For fast prototyping.
+This is a custom ESP32 development board featuring an integrated OLED display for real-time status monitoring, alongside an manual-switching LiPo battery charging circuit with its own USB port. For fast prototyping.
 
 This is the OSHWLab view only link for this project
 
@@ -52,4 +52,35 @@ https://oshwlab.com/yash2942012/project_zcipnwhr
 
 ## BOM 
 
-<img width="2881" height="1074" alt="image" src="https://github.com/user-attachments/assets/26ab605e-66ad-4c49-bafb-7e5142e3a737" />
+﻿Quantity	 	|Supplier	 |Part ID      |Price    	|link                                                                                                        |
+-----------|----------|-------------|----------|------------------------------------------------------------------------------------------------------------|
+"2"	       |"LCSC"	   |"C57369"  	  |"0.071"  	|"https://item.szlcsc.com/58403.html"                                                                        |
+"1"	       |"LCSC"	  	|"C124378" 	  |"0.056"	  |"https://item.szlcsc.com/502959.html"                                                                       |
+"1"	       |"LCSC"	  	|"C368809" 	  |"0.022"	  |"https://item.szlcsc.com/15869.html"                                                                        |
+"5"	       |"LCSC"		  |"C1525"	     |"0.005"  	|"https://item.szlcsc.com/15869.html"                                                                        |
+"3"       	|"LCSC"	  	|"C315248"	   |"0.055"	  |"https://item.szlcsc.com/15869.html"                                                                        |
+"1"       	|"LCSC"		  |"C602037" 	  |"0.329"	  |"https://item.szlcsc.com/373011.html"                                                                       |
+"2"	       |"LCSC"	  	|"C19702"	    |"0.041"	  |"https://item.szlcsc.com/362304.html"                                                                       |
+"1"	       |"LCSC"		  |"C295747"	   |"0.215"	  |"https://item.szlcsc.com/280164.html"                                                                       |
+"2"	       |"LCSC"		  |"C84256"	    |"0.013"   |"https://item.szlcsc.com/255094.html"                                                                       |
+"1"	       |"LCSC"		  |"C2297"	     |"0.016"	  |"https://item.szlcsc.com/255094.html"                                                                       |
+"1"	       |"LCSC"    |"C2297"      |"0.016"   |"https://item.szlcsc.com/88042.html"                                                                        |
+"2"	       |"LCSC"		  |"C164886"	   |"0.017"	  |"https://www.lcsc.com/product-detail/C164886.html"                                                          |
+"4"	       |"LCSC"		  |"C11702"	    |"0.002"  	|"https://item.szlcsc.com/323315.html"                                                                       |
+"8"       	|"LCSC"		  |"C25744"	    |"0.002"  	|"https://item.szlcsc.com/323315.html"                                                                       |
+"1"       	|"LCSC"	  	|"C43473"	    |"0.005"	  |"https://item.szlcsc.com/323315.html"                                                                       |
+"1"	       |"LCSC"	  	|"C25896"	    |"0.002"  	|"https://item.szlcsc.com/323315.html"                                                                       |
+"1"	       |"LCSC"	  	|"C25126"	    |"0.001"  	|"https://item.szlcsc.com/323315.html"                                                                       |
+"3"	       |"LCSC"		  |"C25905"	    |"0.007"	  |"https://item.szlcsc.com/323315.html"                                                                       |
+"1"	       |"LCSC"	  	|"C22765"	    |"0.011"	  |"https://www.lcsc.com/product-detail/C22765.html"                                                           |
+"2"       	|"LCSC"	  	|"C23162"	    |"0.012"	  |"https://jlcpcb.com/partdetail/C23162"                                                                      |
+"2"       	|"LCSC"		  |"C221869"	   |"0.418"	  |"https://item.szlcsc.com/279067.html"                                                                       |
+"1"       	|"LCSC"		  |"C48601057"	 |"0.165"	  |"https://item.szlcsc.com/datasheet/SS12D06G5/50871453.html"                                                 |
+"3"       	|"LCSC"		  |"C5246195"	  |"0.043"	  |"https://lcsc.com/product-detail/TVS_ESD5Z5V0C_C129211.html"                                                |
+"1"	       |"LCSC"		  |"C969151"	   |"2.274"	  |"https://item.szlcsc.com/245167.html"                                                                       |
+"1"	       |"LCSC"		  |"C701342"	   |"4.54"	   |"https://www.lcsc.com/product-detail/C701342.html"                                                          | 
+"1"       	|"LCSC"		  |"C5248080"	  |"2.33"	   |"https://www.lcsc.com/product-detail/C5248080.html"                                                         |
+"1"	       |"LCSC"		  |"C382139"	   |"0.119"	  |"https://www.mornsun.cn/html/pdf/SCM1501B.html"                                                             |
+"1"	       |"LCSC"		  |"C23380830"	 |"0.11"    |"https://www.lcsc.com/product-detail/C23380830.html"                                                        |
+"1"	       |"LCSC"		  |"C165948"	   |"0.186"  	|"https://item.szlcsc.com/datasheet/TYPE-C-31-M-12/177331.html"                                              |
+"3"       	|"LCSC"		  |"C86471"    	|"0.404"	  |"https://item.szlcsc.com/366904.html"                                                                       |
