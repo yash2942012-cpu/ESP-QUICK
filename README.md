@@ -33,23 +33,23 @@ https://oshwlab.com/yash2942012/project_zcipnwhr
 
 ## PCB LAYOUT
 
-
+<img width="2160" height="1796" alt="PCB_PCB_ESP32 MODIFIED_2026-08-15" src="https://github.com/user-attachments/assets/650a2469-1fa6-4853-b535-bed80d00b4ac" />
 
 ## TOP LAYER (SIGNAL)
 
- 
+<img width="2160" height="1796" alt="PCB_PCB_ESP32 MODIFIED_2026-08-15 (1)" src="https://github.com/user-attachments/assets/0408c979-9f59-4e32-8300-87ed0adbf906" />
 
 ## INNER 1 (SIGNAL)
 
- 
+<img width="2160" height="1796" alt="PCB_PCB_ESP32 MODIFIED_2026-08-15 (3)" src="https://github.com/user-attachments/assets/db5d4619-5830-4736-8550-316343413fe4" />
 
 ## INNER 2 (PLANE, GND)
 
- 
+<img width="2160" height="1796" alt="PCB_PCB_ESP32 MODIFIED_2026-08-15 (4)" src="https://github.com/user-attachments/assets/99a4f98d-7a49-4d47-8488-1946bf1916ae" />
 
 ## BOTTOM LAYER (SIGNAL)
 
- 
+<img width="2160" height="1796" alt="PCB_PCB_ESP32 MODIFIED_2026-08-15 (2)" src="https://github.com/user-attachments/assets/98f2fe13-48b4-4048-a9cd-4103bb273a8b" />
 
 ## BOM 
 
